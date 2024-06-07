@@ -8,12 +8,12 @@ Air travel is an essential mode of transportation for millions of people around 
 
 Leveraging the power of AWS SageMaker, this project encompasses the entire machine learning workflow, from data collection and preprocessing to model training and deployment. AWS SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning models quickly.
 
-## Overview FlowChart
+## Overview Flowchart
 <div align="center">
  <img src= https://github.com/AmritBisht/Flight-Price-Predicition/blob/main/Flowchart.jpeg  >
 </div>
 
-
+## Overview 
 - **Phase 1: GitHub Setup & Data Cleaning**
   - Setting up local & remote repository using GitHub
   - Data Cleaning using Numpy and Pandas best practices
