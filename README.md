@@ -1,12 +1,18 @@
 # End-to-End Flight Price Prediction Using AWS SageMaker 
-
+<div align="center">
+ <img src="https://github.com/AmritBisht/Flight-Price-Predicition/blob/main/31202.jpg" width=50% height=50% >
+</div>
 
 
 Air travel is an essential mode of transportation for millions of people around the world. However, predicting flight prices can be challenging due to the dynamic nature of pricing influenced by various factors such as seasonality, demand, airline policies, and more. This project aims to develop a machine learning model that can accurately predict flight prices, helping travelers and businesses make informed decisions.
 
 Leveraging the power of AWS SageMaker, this project encompasses the entire machine learning workflow, from data collection and preprocessing to model training and deployment. AWS SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning models quickly.
 
-## Overview
+## Overview FlowChart
+<div align="center">
+ <img src= https://github.com/AmritBisht/Flight-Price-Predicition/blob/main/Flowchart.jpeg  >
+</div>
+
 
 - **Phase 1: GitHub Setup & Data Cleaning**
   - Setting up local & remote repository using GitHub
