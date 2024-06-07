@@ -39,3 +39,5 @@ Leveraging the power of AWS SageMaker, this project encompasses the entire machi
   - Using S3 buckets for storage 
   - Creating a web application from scratch and deploying over cloud using Streamlit
 
+## Streamlit link 
+[(https://flight-price-predicition-c8zcsimphzqtx4rm9hkqmp.streamlit.app/)]
